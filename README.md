@@ -15,7 +15,7 @@ Application developed in Java with Springboot framework
 
 
   <br>
-    <img src="./src/assets/videogofood.gif"/>
+    <img src="./src/assets/video.gif"/>
   </br>
 
 
