@@ -24,6 +24,7 @@ The following tools were used in the project:
 
 - [Java](https://www.java.com/pt-BR/)
 - [Spring boot](https://spring.io/projects/spring-boot)
+- [Postgres](https://www.postgresql.org/)
   - [Heroku]()
 
 ## Getting started
